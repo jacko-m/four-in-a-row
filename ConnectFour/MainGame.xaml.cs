@@ -8,6 +8,7 @@ namespace ConnectFour;
 public partial class MainGame
 {
     //Enum used to store player states for when there is no player and for player 1 and 2
+    // test push - jack
     private enum Player
     {
         None,
